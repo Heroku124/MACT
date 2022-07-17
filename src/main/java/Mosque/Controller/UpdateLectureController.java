@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.sql.Time;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.sql.Date;
+
 
 
 
@@ -17,9 +17,6 @@ import javax.servlet.http.HttpServletResponse;
 
 
 import Mosque.DAO.AdminLectureDAO;
-import Mosque.DAO.CharityDAO;
-import Mosque.DAO.LectureDAO;
-import Mosque.DAO.SeminarDAO;
 import Mosque.Model.Lecture;
 
 
