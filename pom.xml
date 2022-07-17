@@ -23,7 +23,7 @@
         <version>3.0.3</version>
          <configuration>
 		  <appName>MosqueActivity</appName>
-		  <jdkVersion>15.0.2</jdkVersion>
+		  <jdkVersion>18.0.1</jdkVersion>
 		   <properties>
 		    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
