@@ -14,7 +14,7 @@ public class ConnectionManager {
     
     static Connection con;
 	private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
-	private static final String DB_CONNECTION = "us-cdbr-east-06.cleardb.net";
+	private static final String DB_CONNECTION = "jdbc:mysql://us-cdbr-east-06.cleardb.net/heroku_37bf4a28eb9934b?reconnect=true";
 	private static final String DB_USER = "b6037f17a0d586";
 	private static final String DB_PASSWORD = "4a65c704";
 	
