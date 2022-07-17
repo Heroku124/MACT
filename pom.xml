@@ -28,6 +28,12 @@
 		    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		   </properties>
+		 <dependency>
+		    <groupId>javax.servlet</groupId>
+		    <artifactId>servlet-api</artifactId>
+		    <version>2.5</version>
+		    <scope>provided</scope>
+		</dependency>
         </configuration>
 	     
 		
